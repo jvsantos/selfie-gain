@@ -1,0 +1,56 @@
+{
+    "banner_image": "https://shotkit.com/wp-content/uploads/2017/08/adrian_borda_shotkit_01.jpg",
+    "banner_title": "Fotos",
+    "populars": [
+        {
+            "title": "Air Sports",
+            "image": "./assets/images/listing/300x300AirSports.png"
+        },
+        {
+            "title": "Water Sports",
+            "image": "./assets/images/listing/300x300WaterSports.png"
+        },
+        {
+            "title": "Beach Sports",
+            "image": "./assets/images/listing/300x300BeachSports.png"
+        },
+        {
+            "title": "Extreme Sports",
+            "image": "./assets/images/listing/300x300ExtremeSports.png"
+        },
+        {
+            "title": "Athletic Sports",
+            "image": "./assets/images/listing/300x300AthleticSports.png"
+        },
+        {
+            "title": "Combat Sports",
+            "image": "./assets/images/listing/300x300CombatSports.png"
+        }
+    ],
+    "categories": [
+        {
+            "title": "Amadoras",
+            "image": "./assets/images/listing/professional-category.jpg"
+        },
+        {
+            "title": "Lugares",
+            "image": "./assets/images/listing/places-category.jpg"
+        },
+        {
+            "title": "Animais",
+            "image": "./assets/images/listing/animal-category.jpg"
+        },
+        {
+            "title": "Futebol",
+            "image": "./assets/images/listing/200x200futbol.png"
+        },
+        {
+            "title": "Atores",
+            "image": "./assets/images/listing/actor-black-category.jpg"
+        },
+        {
+            "title": "Crianças",
+            "image": "./assets/images/listing/child-kiding.jpg"
+        }
+    ]
+}
